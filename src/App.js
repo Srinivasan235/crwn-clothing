@@ -1,9 +1,9 @@
 import './App.css';
-import HomePage from './HomePage.component'
+import HomePage from './pages/homepage/HomePage.component.jsx'
 
 function App() {
 	return (
-		<div>
+		<div className='container'>
 			<HomePage />
 		</div>
 
