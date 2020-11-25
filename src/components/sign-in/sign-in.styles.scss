@@ -3,6 +3,7 @@ width: 380px;
 padding: 20px;
 display: flex;
 flex-direction: column;
+padding: 5px;
 
  .title{
      margin : 10px 0px;
@@ -11,6 +12,7 @@ flex-direction: column;
  .buttons {
      display: flex;
      justify-content: space-between;
+     
  }
 }
 
