@@ -17,6 +17,7 @@
         "bucket",
         "c",
         "cart",
+        "categoryid",
         "com",
         "crwn",
         "d",
@@ -42,6 +43,7 @@
         "messaging",
         "middlewares",
         "o",
+        "persistor",
         "pfx",
         "project",
         "q",
@@ -55,6 +57,7 @@
         "u",
         "url",
         "web",
+        "womens",
         "x",
         "ze"
     ]
